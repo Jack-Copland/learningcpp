@@ -39,8 +39,6 @@ void primeCounter(std::vector<int>& primes, int y) {
   return;
 }
 
-
-
 int main(){
   int numberOfPrimes;
   std::cout << "Going to find some primes in this program!\n";
